@@ -1,0 +1,4 @@
+Name-Price-Min_lvl-Damage_reduction
+Gold Shield-45-4-8
+Yellow Shield-3000-79-82
+Diamond Shield-32000-81-84

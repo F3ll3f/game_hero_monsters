@@ -1,0 +1,6 @@
+Name-Type-Price-Min_lvl-Increase
+Potion1-strength-20-1-1
+Potion2-agility-21-1-2
+Potion3-dexterity-37-2-3
+Potion4-agility-83-7-4
+Potion5-strength-92-8-5

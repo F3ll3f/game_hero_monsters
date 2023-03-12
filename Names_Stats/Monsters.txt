@@ -1,0 +1,4 @@
+Name-Type-healthPower-BaseMinDamage-BaseMaxDamage-BaseDefence-BaseAvoidance
+Dragon-Dragon-170-5-10-5-5
+Exoskeleton-Exoskeleton-180-2-5-8-2
+Spirit-Spirit-160-1-2-4-6

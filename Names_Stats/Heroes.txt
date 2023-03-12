@@ -1,0 +1,4 @@
+Name-Type-healthPower-magicPower-BaseStrength-BaseDexterity-BaseAgility
+Warrior-Warrior-150-250-4-4-4
+Sorcerer-Sorcerer-200-200-5-5-5
+Paladin-Paladin-250-150-6-6-6

@@ -1,0 +1,5 @@
+Name-Type-Price-Min_lvl-Min_damage-Max_damage-Energy_req-Reduction_percent
+Spell1-LightingSpell-20-2-4-15-120-9
+Spell2-FireSpell-80-2-16-21-54-5
+Spell3-IceSpell-320-4-3-30-51-22
+Spell4-LightingSpell-720-7-5-22-91-7

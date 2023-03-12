@@ -1,0 +1,5 @@
+Name-Hands-Price-Min_lvl-Damage
+Weapon1-1-6-2-12
+Weapon2-1-42-3-15
+Weapon3-1-84-5-21
+Weapon4-2-41-6-27
